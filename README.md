@@ -14,6 +14,8 @@ Estamos criando um jogo estile RPG em testo, onde o jogador cria sua propria His
 :space_invader: Maven<br>
 :heavy_check_mark: JPA & JSF  <br>
 :bank: SQL & ORACLE <br>
-</h4>
 
 ![tenor](https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969) 
+</h4>
+
+
