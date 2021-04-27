@@ -8,7 +8,11 @@ Este projeto esta com  mudanças em relação ao projeto feito em sala de aula.
 Estamos criando um jogo estile RPG em testo, onde o jogador cria sua propria História  conforme suas escolhas.
 
 <h4 align="center"> 
-	🚧  RPG de Texto 🚀 Em construção...  🚧
+🚧  RPG de Texto 🚀 Em construção...  🚧
+:computer: ECLIPSE Java EE <br>
+:space_invader: Maven<br>
+:heavy_check_mark: JPA & JSF  <br>
+:bank: SQL & ORACLE <br>
 </h4>
 
 ![tenor](https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969) 
