@@ -8,7 +8,8 @@ Este projeto esta com  mudanças em relação ao projeto feito em sala de aula.
 Estamos criando um jogo estile RPG em testo, onde o jogador cria sua propria História  conforme suas escolhas.
 
 <h4 align="center"> 
-🚧  RPG de Texto 🚀 Em construção...  🚧
+🚧  RPG de Texto 🚀 Em construção usando ...  🚧
+
 
 :computer: ECLIPSE Java EE <br>
 :space_invader: Maven<br>
